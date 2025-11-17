@@ -10,53 +10,24 @@ FDM
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
 大疆
 DJI
+影石
+Insta360
 
-宇树
-王兴兴
+尼康
+Nikon
+索尼
+Sony
+佳能
+Canon
+哈苏
+Hasselblad
+富士
+Fujifilm
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -64,26 +35,28 @@ Github
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
+Intel
 
 谷歌
-google
+Google
 gemini
 deepmind
 
-chatgpt
-openai
-sora
+ChatGPT
+OpenAI
+Sora
 
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+iPhone
+iPad
+Mac
+iOS
+
+小米 红米 华为 OPPO vivo 一加
 
 ai
 !gai
@@ -93,24 +66,9 @@ ai
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
 科技
 
 核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
 
 月球
 登月
