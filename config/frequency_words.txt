@@ -7,9 +7,6 @@ FDM
 胖东来
 于东来
 
-DeepSeek
-梁文锋
-
 大疆
 DJI
 影石
@@ -47,6 +44,9 @@ deepmind
 ChatGPT
 OpenAI
 Sora
+
+DeepSeek
+梁文锋
 
 claude
 Anthropic
